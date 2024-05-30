@@ -1,3 +1,3 @@
 ## Browse here
 
-visit project [here](https://imvijay0.github.io/Amazon-web-application/).
+To visit the project click [here](https://imvijay0.github.io/Amazon-web-application/).
